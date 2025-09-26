@@ -1,0 +1,8 @@
+{"gesture_mapping": {"play": "one_finger", "next": "two_fingers", "previous": "three_fingers", "volume_down": "four_fingers", "volume_up": "five_fingers", "pause": "closed_fist"}, "input_shape": [96, 96, 1], "classes": ["play", "next", "previous", "volume_down", "volume_up", "pause"],"label_names": [
+    "play",
+    "next",
+    "previous",
+    "volume_down",
+    "volume_up",
+    "pause"
+  ], "accuracy": 1.0}

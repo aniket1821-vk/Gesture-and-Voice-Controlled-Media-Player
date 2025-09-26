@@ -1,0 +1,184 @@
+🧪 SAMPLE PREDICTIONS REPORT
+==================================================
+
+Sample 1: ✅ CORRECT
+  True: next
+  Predicted: next
+  Confidence: 1.000
+  Top 3 predictions:
+    1. next: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 2: ✅ CORRECT
+  True: pause
+  Predicted: pause
+  Confidence: 1.000
+  Top 3 predictions:
+    1. pause: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 3: ✅ CORRECT
+  True: pause
+  Predicted: pause
+  Confidence: 1.000
+  Top 3 predictions:
+    1. pause: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 4: ✅ CORRECT
+  True: previous
+  Predicted: previous
+  Confidence: 0.999
+  Top 3 predictions:
+    1. previous: 0.999
+    2. next: 0.001
+    3. volume_down: 0.000
+
+Sample 5: ✅ CORRECT
+  True: next
+  Predicted: next
+  Confidence: 1.000
+  Top 3 predictions:
+    1. next: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 6: ✅ CORRECT
+  True: volume_down
+  Predicted: volume_down
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_down: 1.000
+    2. volume_up: 0.000
+    3. previous: 0.000
+
+Sample 7: ✅ CORRECT
+  True: previous
+  Predicted: previous
+  Confidence: 0.985
+  Top 3 predictions:
+    1. previous: 0.985
+    2. next: 0.015
+    3. volume_down: 0.000
+
+Sample 8: ✅ CORRECT
+  True: volume_up
+  Predicted: volume_up
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_up: 1.000
+    2. pause: 0.000
+    3. volume_down: 0.000
+
+Sample 9: ✅ CORRECT
+  True: play
+  Predicted: play
+  Confidence: 1.000
+  Top 3 predictions:
+    1. play: 1.000
+    2. next: 0.000
+    3. pause: 0.000
+
+Sample 10: ✅ CORRECT
+  True: volume_down
+  Predicted: volume_down
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_down: 1.000
+    2. previous: 0.000
+    3. volume_up: 0.000
+
+Sample 11: ✅ CORRECT
+  True: volume_up
+  Predicted: volume_up
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_up: 1.000
+    2. pause: 0.000
+    3. volume_down: 0.000
+
+Sample 12: ✅ CORRECT
+  True: previous
+  Predicted: previous
+  Confidence: 1.000
+  Top 3 predictions:
+    1. previous: 1.000
+    2. next: 0.000
+    3. volume_down: 0.000
+
+Sample 13: ✅ CORRECT
+  True: volume_down
+  Predicted: volume_down
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_down: 1.000
+    2. volume_up: 0.000
+    3. previous: 0.000
+
+Sample 14: ✅ CORRECT
+  True: next
+  Predicted: next
+  Confidence: 1.000
+  Top 3 predictions:
+    1. next: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 15: ✅ CORRECT
+  True: play
+  Predicted: play
+  Confidence: 1.000
+  Top 3 predictions:
+    1. play: 1.000
+    2. next: 0.000
+    3. pause: 0.000
+
+Sample 16: ✅ CORRECT
+  True: next
+  Predicted: next
+  Confidence: 1.000
+  Top 3 predictions:
+    1. next: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 17: ✅ CORRECT
+  True: volume_down
+  Predicted: volume_down
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_down: 1.000
+    2. volume_up: 0.000
+    3. previous: 0.000
+
+Sample 18: ✅ CORRECT
+  True: next
+  Predicted: next
+  Confidence: 1.000
+  Top 3 predictions:
+    1. next: 1.000
+    2. play: 0.000
+    3. previous: 0.000
+
+Sample 19: ✅ CORRECT
+  True: volume_up
+  Predicted: volume_up
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_up: 1.000
+    2. pause: 0.000
+    3. volume_down: 0.000
+
+Sample 20: ✅ CORRECT
+  True: volume_down
+  Predicted: volume_down
+  Confidence: 1.000
+  Top 3 predictions:
+    1. volume_down: 1.000
+    2. volume_up: 0.000
+    3. previous: 0.000
+
+Sample accuracy: 1.000 (20/20)
