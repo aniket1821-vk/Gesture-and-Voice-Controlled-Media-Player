@@ -50,49 +50,7 @@ Gesture Recognition	Custom CNN Model
 Audio Processing	SpeechRecognition, PyAudio
 UI Framework	PyQt / Tkinter
 Dataset	Custom gesture dataset
-🧩 System Architecture (UML Diagram)
-                +---------------------+
-                |   Media Player UI   |
-                +----------+----------+
-                           ^
-                           |
-               Receives Commands
-                           |
-       +-------------------+-------------------+
-       |                                       |
-+------+-------+                       +--------+--------+
-| Gesture Ctrl |                       | Voice Controller |
-+------+-------+                       +--------+--------+
-       |                                              |
-       | Hand Pose → CNN Predicts Gesture             | Speech → Text Command
-       |                                              |
-+------+-------+                               +------+-------+
-| Mediapipe    |                               | Speech Recog |
-+------+-------+                               +------+-------+
-       |                                              |
-       +--------------------+-------------------------+
-                            |
-                     AI Command Mapper
-                            |
-                   +--------+--------+
-                   |  Media Actions  |
-                   +-----------------+
 
-📂 Project Structure
-├── gestures/                # Gesture dataset
-├── models/
-│   └── cnn_model.h5         # Trained CNN gesture model
-├── voice/
-├── media/
-├── src/
-│   ├── gesture_controller.py
-│   ├── voice_controller.py
-│   ├── media_player.py
-│   ├── utils.py
-├── preview.png
-├── demo.gif
-├── requirements.txt
-└── README.md
 
 🔧 Installation
 git clone https://github.com/<your-username>/<repo>.git
